@@ -23,3 +23,6 @@
 - [円周率](https://ja.wikipedia.org/wiki/%E5%86%86%E5%91%A8%E7%8E%87)
 - [ピタゴラスの定理](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF%E3%82%B4%E3%83%A9%E3%82%B9%E3%81%AE%E5%AE%9A%E7%90%86)
 - [テイラー展開](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E5%B1%95%E9%96%8B)
+
+SHARP MZ-80K で円周率 π を計算:  
+![](../../docs/images/MZ-80K-Pi.jpg)
