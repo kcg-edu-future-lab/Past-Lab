@@ -1,17 +1,19 @@
-# BASIC for Past Lab
-BASIC for [過去環境ラボ](https://www.facebook.com/groups/294793114666557/)
+# Past Lab
+[過去環境ラボ](https://www.facebook.com/groups/294793114666557/) by 未来環境ラボ
 
 ## Source Code
-- [立方根 (3乗根)](src/CubicRoot.bas)
-- [最大公約数](src/GCD.bas)
-- [円周率](src/Pi.bas)
-- [ピタゴラス数](src/PythagoreanTriples.bas)
-- [sin 関数](src/Sine.bas)
+展示および写経を主な目的として、10 行程度で記述できるコードを多く揃えました。
 
-これらのコードは、例えば [Applesoft BASIC in JavaScript](https://www.calormen.com/jsbasic/) のような BASIC シミュレーター上でも実行できます。
+- [BASIC のコードおよびその説明](src/BASIC)
+  - 円周率 π
+  - 立方根 (3乗根)
+  - ピタゴラス数 など
+
+SHARP MZ-80K でピタゴラス数を求める:  
+![](docs/images/MZ-80K-Pythagorean-Output.jpg)
 
 ### References
-- [過去環境ラボ準備室 (Facebook グループ)](https://www.facebook.com/groups/294793114666557/)
+- [過去環境ラボ (Facebook グループ)](https://www.facebook.com/groups/294793114666557/)
 
 ### Records
 - 2018.11.09-10 京都コンピュータ学院 11月祭 「過去環境ラボ」
