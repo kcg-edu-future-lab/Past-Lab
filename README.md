@@ -4,6 +4,8 @@
 ## Documents
 各機種の起動および使用方法についてのメモです。
 - [パーソナル コンピュータ (PC)](docs/PCs)
+  - [SHARP MZ-80K](docs/PCs/MZ-80K.md)
+  - [NEC PC-6001](docs/PCs/PC-6001.md)
 
 ## Source Code
 展示および写経を主な目的として、10 行程度で記述できるコードを多く揃えました。
