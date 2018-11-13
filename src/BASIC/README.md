@@ -1,6 +1,9 @@
 ## BASIC
+展示および写経を主な目的として、10 行程度で記述できるコードを多く揃えました。
 
 ### Sample Code
+これらのコードは、[Applesoft BASIC in JavaScript](https://www.calormen.com/jsbasic/) のような BASIC シミュレーター上でも実行できます。
+
 - [バブルソート](BubbleSort.bas)
 - [立方根 (3乗根)](CubicRoot.bas)
   - ニュートン法による漸化式を利用
@@ -14,8 +17,6 @@
 - [sin 関数](Sine.bas)
   - マクローリン展開を利用
   - `sin x = x - x^3/3! + x^5/5! - x^7/7! + …`
-
-これらのコードは、[Applesoft BASIC in JavaScript](https://www.calormen.com/jsbasic/) のような BASIC シミュレーター上でも実行できます。
 
 ### References
 - [ニュートン法](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E6%B3%95)
