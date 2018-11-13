@@ -1,6 +1,10 @@
 # Past Lab
 [過去環境ラボ](https://www.facebook.com/groups/294793114666557/) by 未来環境ラボ
 
+## Documents
+各機種の起動および使用方法についてのメモです。
+- [パーソナル コンピュータ (PC)](docs/PCs)
+
 ## Source Code
 展示および写経を主な目的として、10 行程度で記述できるコードを多く揃えました。
 
