@@ -19,6 +19,8 @@
   - `sin x = x - x^3/3! + x^5/5! - x^7/7! + …`
 
 ### References
+- [BASIC - Wikipedia](https://ja.wikipedia.org/wiki/BASIC)
+- [BASIC - Wikibooks](https://ja.wikibooks.org/wiki/BASIC)
 - [ニュートン法](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E6%B3%95)
 - [ユークリッドの互除法](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E3%81%AE%E4%BA%92%E9%99%A4%E6%B3%95)
 - [円周率](https://ja.wikipedia.org/wiki/%E5%86%86%E5%91%A8%E7%8E%87)
