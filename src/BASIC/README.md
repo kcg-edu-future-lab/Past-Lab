@@ -12,8 +12,10 @@
   - ユークリッドの互除法を利用
 - [円周率 π](Pi.bas)
   - `π = √12 (1/1·1 - 1/3·3 + 1/5·3^2 - 1/7·3^3 + …)`
-- [ピタゴラス数](PythagoreanTriples.bas)
+- [ピタゴラス数 1](PythagoreanTriples1.bas)
   - 最大公約数をチェックすることで、素なもののみに絞り込む
+- [ピタゴラス数 2](PythagoreanTriples2.bas)
+  - `(p*p-q*q, 2*p*q, p*p+q*q)` を利用して、直接列挙する
 - [sin 関数](Sine.bas)
   - マクローリン展開を利用
   - `sin x = x - x^3/3! + x^5/5! - x^7/7! + …`
